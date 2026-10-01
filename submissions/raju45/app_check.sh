@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "=== Starting Health Inspection Check ==="
+echo "Version 2.0-Team Beta"
 
 
 curl -I https://api.github.com
